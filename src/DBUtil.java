@@ -7,7 +7,7 @@ import java.sql.SQLException;
 public class DBUtil {
 
 	private static final String USERNAME = "lruh";
-	private static final String PASSWORD = "Asdfasdf1";	
+	private static final String PASSWORD = "!@#$$%#^";	
 	private static final String M_CONN_STRING = "jdbc:mysql://localhost:8889/jobsearch_dev";
 	
 	//Class.forName("com.mysql.jdbc.Driver");
